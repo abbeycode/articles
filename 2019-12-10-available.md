@@ -356,7 +356,7 @@ based on our platform and/or Swift language version.
 Similar to how, in Swift,
 [thrown errors must be handled or propagated](https://docs.swift.org/swift-book/LanguageGuide/ErrorHandling.html#ID512),
 use of potentially unavailable APIS
-mist be either annotated and conditionalize code.
+must be either annotated and conditionalize code.
 
 When you attempt to call an API that is unavailable
 for at least one of your supported targets,
